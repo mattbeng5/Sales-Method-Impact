@@ -1,12 +1,12 @@
 # Sales Method Impact
 
 ## Table of Contents
-- [Project Overview](project-overview)
-- [Data Source](data-source)
-- [Tools](tools)
-- [Data Cleaning and Preparation](data-cleaning-and-preparation)
-- [Analysis](Analysis)
-- [Recommendations](Recommendations)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Analysis](#Analysis)
+- [Recommendations](#Recommendations)
 
 
 ## Project Overview
