@@ -17,6 +17,7 @@ The data is sourced from "product_sales.csv" which contains sales data relating 
 
 ## Tools
 - R
+   - tidyverse, lubridate	
   
 ## Data Cleaning and Preparation 
 In the initial phase of our analysis we performed the following steps:
